@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(53, 54, 58);    
+}
+.login{
+    border: white solid;
+    width: 550px;
+    height: 500px;
+    
+}
+#titulo{
+    color: white;
+    text-align: center;
+}
+#subtitulo{
+color: white;
+}
